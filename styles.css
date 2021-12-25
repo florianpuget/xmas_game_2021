@@ -1,14 +1,14 @@
 #container {
     margin: 10px;
 
-    width:520px;
+    width:600px;
     height:320px;
     margin:0 auto;
     /* background:#f7f7f7; */
     position:absolute;
     left:50%;
     top:50%;
-    margin-left:-260px;
+    margin-left:-300px;
     margin-top:-250px;
 }
 
@@ -18,6 +18,12 @@
     width: 500px;
     height: 180px;
     margin-bottom: 10px;
+}
+
+#error {
+    display: block;
+    margin-left: 10px;
+    color: red;
 }
 
 p, h3, textarea {
