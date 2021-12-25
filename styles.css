@@ -1,0 +1,25 @@
+#container {
+    margin: 10px;
+
+    width:520px;
+    height:320px;
+    margin:0 auto;
+    /* background:#f7f7f7; */
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-260px;
+    margin-top:-250px;
+}
+
+#instruction {
+    display: block;
+    color: darkgray;
+    width: 500px;
+    height: 180px;
+    margin-bottom: 10px;
+}
+
+p, h3, textarea {
+    font-family: 'Courier New', Courier, monospace;
+}
