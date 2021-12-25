@@ -26,6 +26,10 @@
     color: red;
 }
 
-p, h3, textarea {
+#time {
+    margin-left: 10px;
+}
+
+p, span, h3, textarea {
     font-family: 'Courier New', Courier, monospace;
 }
